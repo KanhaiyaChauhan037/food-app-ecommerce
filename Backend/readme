@@ -1,0 +1,11 @@
+"dishes": [
+    {
+      "dishId": "64aeecdbfcbc730db61c5754",
+      "quantity": 1
+    }
+  ],
+  "total":39.99,
+  "deliveryTime": "2023-07-17 09:49",
+  "customerName": "kanhiaya",
+  "customerAddress":"ksdf",
+  "customerPhone" :"789555555"
